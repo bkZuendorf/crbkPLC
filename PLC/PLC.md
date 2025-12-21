@@ -1,6 +1,8 @@
 # The PLC-PCB
 The aim of the circuit board was to create a simple and inexpensive system. It is designed to give learners an insight into the basic structure and functioning of a PLC.
-Together with the open source software OpenPLC, it provides an introduction to the world of PLCs.   
+Together with the open source software OpenPLC, it provides an introduction to the world of PLCs.
+
+The most recent Fusion360 Layout file is [provided here](crbkPLC.f3z). 
 
 
 ## The Schematic
